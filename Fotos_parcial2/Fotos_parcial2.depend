@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1574359597 source:c:\users\t13774\desktop\facultad\fotos_parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"foto.h"
+	"Parser.h"
+
+1563324038 source:c:\users\t13774\desktop\facultad\fotos_parcial2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1563324038 c:\users\t13774\desktop\facultad\fotos_parcial2\validaciones.h
+
+1574380456 source:c:\users\t13774\desktop\facultad\fotos_parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574355491 c:\users\t13774\desktop\facultad\fotos_parcial2\linkedlist.h
+
+1574378467 source:c:\users\t13774\desktop\facultad\fotos_parcial2\foto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"foto.h"
+	"Validaciones.h"
+
+1574378548 c:\users\t13774\desktop\facultad\fotos_parcial2\foto.h
+
+1574357247 source:c:\users\t13774\desktop\facultad\fotos_parcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"foto.h"
+	"parser.h"
+
+1574357385 c:\users\t13774\desktop\facultad\fotos_parcial2\parser.h
+
+1574380728 source:c:\users\t13774\desktop\facultad\fotos_parcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"foto.h"
+	"parser.h"
+
+1574357020 c:\users\t13774\desktop\facultad\fotos_parcial2\controller.h
+
