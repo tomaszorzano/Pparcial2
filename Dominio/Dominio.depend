@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1562012521 source:c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"eDominio.h"
+	"Parser.h"
+
+1562280228 c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\linkedlist.h
+
+1562023171 c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\controller.h
+
+1562280218 c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\edominio.h
+
+1562012521 c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\parser.h
+
+1562280277 source:c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"eDominio.h"
+	"Parser.h"
+
+1562031871 source:c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"eDominio.h"
+	"Parser.h"
+
+1562280772 source:c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"eDominio.h"
+
+1562280218 source:c:\users\eli\documents\utn\prog1_lab1_2018\finaleslab1\dominio\edominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"eDominio.h"
+
+1563324038 source:c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"eDominio.h"
+	"Parser.h"
+
+1563324038 c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\linkedlist.h
+
+1563324038 c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\controller.h
+
+1563324038 c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\edominio.h
+
+1563324038 c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\parser.h
+
+1563324038 source:c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"eDominio.h"
+
+1574635955 source:c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"eDominio.h"
+	"Parser.h"
+
+1563324038 source:c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"eDominio.h"
+	"Parser.h"
+
+1574569413 source:c:\users\t13774\desktop\facultad\practica parcil 2\programacion_1_laboratorio_1-master\programacion_1_laboratorio_1-master\finaleslab1\dominio\edominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"eDominio.h"
+
